@@ -10,5 +10,12 @@
       "name": "Tapas",
       "age": 25
     }
+  ],
+
+  "products": [
+    {
+      "id": 1,
+      "name": "I-phone"
+    }
   ]
 }
